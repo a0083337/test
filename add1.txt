@@ -1,2 +1,4 @@
 add1
 add a new line
+
+added a second line
